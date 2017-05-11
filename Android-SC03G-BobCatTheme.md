@@ -13,7 +13,7 @@ SC-03G 用の Bobcat theme 移植
 
 ## ダウンロード
  * SC03GOMU1ANKD(初期ROM) 用  
-  [SystemUI.apk](https://onedrive.live.com/embed?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317259)  
+  [SystemUI.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317259)  
   [SecSettings.apk]()  
   [framework-res.apk]()  
   [twframework-res.apk]()  
