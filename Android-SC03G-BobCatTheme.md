@@ -14,11 +14,11 @@ SC-03G 用の Bobcat theme 移植
 ## ダウンロード
  * SC03GOMU1ANKD(初期ROM) 用  
   [SystemUI.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317259)  
-  [SecSettings.apk]()  
-  [framework-res.apk]()  
-  [twframework-res.apk]()  
+  [SecSettings.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317265)  
+  [framework-res.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317264)  
+  [twframework-res.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317258)  
  * SC03GOMU1AOC2 用  
-  [SystemUI.apk](/image/SC03G/bobcat-sc03g/SC03GOMU1AOC2/SystemUI.apk)  
-  [SecSettings.apk](/image/SC03G/bobcat-sc03g/SC03GOMU1AOC2/SecSettings.apk)  
-  [framework-res.apk](/image/SC03G/bobcat-sc03g/SC03GOMU1AOC2/framework-res.apk)  
-  [twframework-res.apk](/image/SC03G/bobcat-sc03g/SC03GOMU1AOC2/twframework-res.apk)  
+  [SystemUI.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317261)  
+  [SecSettings.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317268)  
+  [framework-res.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317263)  
+  [twframework-res.apk](https://onedrive.live.com/download.aspx?cid=A212FD3B0AE0F943&resid=A212FD3B0AE0F943%21317260)  
