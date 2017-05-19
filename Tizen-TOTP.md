@@ -29,6 +29,15 @@ Gear S2/S3 バージョンはファイルを転送する2つの場所を追加�
  - SDK(sdb) を使って Downloads フォルダにコピー
  - ファイル名を auth_keyinfo.mp3 に変更して、GearManager から音楽データとして Gear端末に転送
 
+## 画面
+
+Gear S  
+![TOTP-S.png](/images/TOTP/TOTP-S.png)
+
+Gear S2  
+![TOTP-S2.png](/images/TOTP/TOTP-S2.png)
+
+
 ## 変更履歴
  - 1.0.0 初版
  - 1.1.0 Gear S2 のみ
