@@ -1,7 +1,8 @@
 # てすりのよしなし事
 - Tizen  
-  [TextClockWidget](Tizen-TextClockWidget)  
+  [TOTP](Tizen-TOTP)  
   [TimeTableViewer](Tizen-TimeTableViewer)  
+  [TextClockWidget](Tizen-TextClockWidget)  
 - Orange PI zero  
   [SerialConsole](OrangePIZero-Serial)  
   [書き込み頻度を減らす](OrangePIZero-Flash)
