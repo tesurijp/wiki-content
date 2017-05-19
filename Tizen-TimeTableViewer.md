@@ -25,6 +25,12 @@ NextTrain の tbl ファイルを UTF-8 形式で、拡張子を .tbl にして 
 あとは、時刻表選択から任意の時刻表を選べば現在の時刻に合わせて電車の来る時間を表示します。  
 使い方は [Js-TT](http://hazelnutworks.com/cgi-bin/wiki/wiki.cgi?page=Js-TT) のページも参考にしてみてください。
 
+## 画面イメージ
+![Screenshot1](/images/TimeTable/Screenshot1.png)
+![Screenshot2](/images/TimeTable/Screenshot2.png)
+![Screenshot3](/images/TimeTable/Screenshot3.png)
+![Screenshot4](/images/TimeTable/Screenshot4.png)
+
 ## 変更履歴
  - 1.0.0 初版
 
