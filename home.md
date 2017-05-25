@@ -6,7 +6,8 @@
 - Orange PI zero  
   [SerialConsole](OrangePIZero-Serial)  
   [書き込み頻度を減らす](OrangePIZero-Flash)
-
+- Windows  
+  [Windows のエクスプローラ上のゴミ](Windows-Explorer)
 
 ### サーバー設定関連のメモ
 - [Wikiコンテンツ管理](RealmsWiki-Content-Manage)
