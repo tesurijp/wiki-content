@@ -8,6 +8,7 @@
   [書き込み頻度を減らす](OrangePIZero-Flash)
 - Windows  
   [Windows のエクスプローラ上のゴミ](Windows-Explorer)
+  [VSCode](Windows-VSCode)
 
 ### サーバー設定関連のメモ
 - [Wikiコンテンツ管理](RealmsWiki-Content-Manage)
