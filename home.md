@@ -12,7 +12,10 @@
   [PortProxy](Windows-PortProxy)  
 
 ### サーバー設定関連のメモ
-- [Wikiコンテンツ管理](RealmsWiki-Content-Manage)
+- [Wikiコンテンツ管理](RealmsWiki-Content-Manage)  
+- [DebianのnginxでownCloud](OwnCloud-nginx-debian)  
+- [Lets Encrypt](LetsEncrypt-debian)
+
 
 ### 古い情報
 - [Tizen](OLD-Tizen)  
