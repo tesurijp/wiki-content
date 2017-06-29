@@ -29,3 +29,11 @@ VM が起きているときにファイルを修正した場合は、VM 終了�
     ```
 1. 実行環境  
 標準のスクリプトでは、msys や git for windows の bash を使うようgit for windows や MSYS PowerShell を使ったほうが快適なので、PowerShell 用の環境にする
+    1. [Docker for Powershell](https://github.com/Microsoft/Docker-PowerShell) のインストール
+        ```
+        Register-PSRepository -Name DockerPS-Dev -SourceLocation https://ci.appveyor.com/nuget/docker-powershell-dev
+        Install-Module -Name Docker -Repository DockerPS-Dev -Scope CurrentUser
+        ```
+    1. Docker VM の起動は、PowerShell に特別用意されているわけではないので ```docker-machine start```  
+    1. Docker VM が動いている状態で ```docker-machine.exe env | Invoke-Expression```  
+docker コマンドのかなりの部分は Cmdlet が用意されてるようだが完全ではない。docker コマンドも使う
