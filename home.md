@@ -15,7 +15,6 @@
 
 ### サーバー設定関連のメモ
 - [Wikiコンテンツ管理](RealmsWiki-Content-Manage)  
-- [DebianのnginxでownCloud](OwnCloud-nginx-debian)  
 - [Lets Encrypt](LetsEncrypt-debian)
 
 
