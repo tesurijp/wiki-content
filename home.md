@@ -11,6 +11,7 @@
   [VSCode](Windows-VSCode)  
   [PortProxy](Windows-PortProxy)  
   [VMWareをDockerMachinenにする](Docker-VMWare)  
+  [GPD Pocketのクリーンのクリーンインストール](GpdPocket-CleanInstall)
 
 ### サーバー設定関連のメモ
 - [Wikiコンテンツ管理](RealmsWiki-Content-Manage)  
