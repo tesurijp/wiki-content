@@ -19,7 +19,7 @@ docker-machine-driver-vmwareworkstation の ReadMe にVMWare 用に修正され�
 ```docker-machine create --driver=vmwareworkstation default```
 
 1. vmx ファイルの修正  
-VMWare では標準的に作成される VM は、ログ、メモリの状態などディスクへのアクセスが常時発生、VM側のメモリも勝手に調整するとか異常に重い設定になっていて使いずらいnのdので修正する。  
+VMWare では標準的に作成される VM は、ログ、メモリの状態などディスクへのアクセスが常時発生、VM側のメモリも勝手に調整するとか異常に重い設定になっていて使いずらいので修正する。  
 対象のファイルは ```%USERPROFILE%\.docker\machine\machines\default\default.vmx```  
 ファイルをテキストエディタで開いて、末尾に追加する。この修正は、VM を終了した状態で修正する。  
 VM が起きているときにファイルを修正した場合は、VM 終了時に元の設定に戻される。  
