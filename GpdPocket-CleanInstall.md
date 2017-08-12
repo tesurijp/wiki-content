@@ -1,4 +1,4 @@
-##GPD Pocketのクリーンインストール手順
+## GPD Pocketのクリーンインストール手順 
 
 Pro版での確認だがHomeも同じはず
 
