@@ -16,8 +16,9 @@ docker-machine-driver-vmwareworkstation の ReadMe にVMWare 用に修正され�
 環境は別途用意する。  
 
 1. default VM の作成  
-```docker-machine create --driver=vmwareworkstation default```
-
+```docker-machine create --driver=vmwareworkstation default```  
+この時、VMWare のネットワークアダプタとして NAT がないと作成に失敗する。  
+アダプタの構成を変えてしまっている場合など一度デフォルトに戻して作成したほうが安全。作成後にネットワークの構成を変更してもDHCPでIPが取れる環境であれば問題ない。
 1. vmx ファイルの修正  
 VMWare では標準的に作成される VM は、ログ、メモリの状態などディスクへのアクセスが常時発生、VM側のメモリも勝手に調整するとか異常に重い設定になっていて使いずらいので修正する。  
 対象のファイルは ```%USERPROFILE%\.docker\machine\machines\default\default.vmx```  
