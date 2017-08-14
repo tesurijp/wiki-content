@@ -12,7 +12,7 @@
   [PortProxy](Windows-PortProxy)  
   [VMWareをDockerMachinenにする](Docker-VMWare)  
   [GPD Pocketのクリーンインストール](GpdPocket-CleanInstall)
-- 仮想環境でMacOS
+- 仮想環境でMacOS  
   [VMWareでMacOSを動かす夢](MacOnVMWare)
 
 
