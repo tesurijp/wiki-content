@@ -12,6 +12,9 @@
   [PortProxy](Windows-PortProxy)  
   [VMWareをDockerMachinenにする](Docker-VMWare)  
   [GPD Pocketのクリーンインストール](GpdPocket-CleanInstall)
+- 仮想環境でMacOS
+  [VMWareでMacOSを動かす夢](MacOnVMWare)
+
 
 ### サーバー設定関連のメモ
 - [Wikiコンテンツ管理](RealmsWiki-Content-Manage)  
