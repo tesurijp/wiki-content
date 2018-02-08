@@ -6,6 +6,8 @@
 - Orange PI zero  
   [SerialConsole](OrangePIZero-Serial)  
   [書き込み頻度を減らす](OrangePIZero-Flash)
+- Android  
+  [root化した端末でAmazonPrimeVideo がエラーになる](Android-AmazonPrimeVideoRoot)
 - Windows  
   [Windows のエクスプローラ上のゴミ](Windows-Explorer)  
   [VSCode](Windows-VSCode)  
