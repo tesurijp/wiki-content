@@ -7,7 +7,9 @@
   [SerialConsole](OrangePIZero-Serial)  
   [書き込み頻度を減らす](OrangePIZero-Flash)
 - Android  
-  [root化した端末でAmazonPrimeVideo がエラーになる](Android-AmazonPrimeVideoRoot)
+  [root化した端末でAmazonPrimeVideo がエラーになる](Android-AmazonPrimeVideoRoot)  
+  [GeminiPDA root化](Android-GeminiPDA-Root)  
+  [GeminiPDA キーボードカスタマイズ](Android-GeminiPDA-KeyCustom)  
 - Windows  
   [Windows のエクスプローラ上のゴミ](Windows-Explorer)  
   [VSCode](Windows-VSCode)  
