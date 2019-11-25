@@ -10,6 +10,7 @@
   [root化した端末でAmazonPrimeVideo がエラーになる](Android-AmazonPrimeVideoRoot)  
   [GeminiPDA root化](Android-GeminiPDA-Root)  
   [GeminiPDA キーボードカスタマイズ](Android-GeminiPDA-KeyCustom)  
+  [Cosmo Communicator root化](Android-Cosmo-Root)
 - Windows  
   [Windows のエクスプローラ上のゴミ](Windows-Explorer)  
   [VSCode](Windows-VSCode)  
